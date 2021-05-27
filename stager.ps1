@@ -1,1 +1,1 @@
-mspaint.exe
+calc.exe
